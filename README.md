@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half Finish
 
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
+[website]: http://banicadaniel.pythonanywhere.com/
+[linkedin]: https://www.linkedin.com/in/daniel-banica/
