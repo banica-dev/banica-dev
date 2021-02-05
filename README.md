@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [website]: http://banicadaniel.pythonanywhere.com/
 [linkedin]: https://www.linkedin.com/in/daniel-banica/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-banica&show_icons=true&theme=radical)
