@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 [website]: http://banicadaniel.pythonanywhere.com/
 [linkedin]: https://www.linkedin.com/in/daniel-banica/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banica-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href = "https://github.com/banica-dev/banica-dev">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=banica-dev&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
+</a>
